@@ -1,2 +1,2 @@
 # coursera
-Coursera Data Science Specialist course
+Coursera Data Science Specialist course - Pau
